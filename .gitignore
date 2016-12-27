@@ -27,6 +27,16 @@ eagle.epf
 *.crc
 *.crs
 
+*.GTO
+*.GML
+*.GBS
+*.GBP
+*.GBO
+*.GBL
+*.GTL
+*.GTS
+*.GTP
+
 *.dri
 *.drl
 *.gpi
@@ -41,4 +51,3 @@ eagle.epf
 
 # file locks introduced since 7.x
 *.lck
-
